@@ -34,7 +34,7 @@ public int subTwoNumbers(int num1,int num2)
 	}
 public float multiplyTwoNumbers(double d,double e)
 {
-	float mul = (float) (d*e);
+	float mul =  (float) (d*e);
 	return mul;
 	}
 public int divideTwoNumbers(int num1,int num2)
